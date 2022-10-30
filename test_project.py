@@ -1,4 +1,4 @@
-from project import hangman, without_dash, word_dashes
+from main import hangman, without_dash, word_dashes
 from hangman_visual import lives_visual
 
 
