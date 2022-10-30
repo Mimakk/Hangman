@@ -27,10 +27,7 @@ The `main()` function is located in **project.py** file as well as other functio
 ```
 python project.py
 ```
-4. Type a space after typing `python project.py` and provide the names of cities, each of which should be separated by a space. If a name of a city has more than one word, it should be typed in quotes.
-```
-python project.py "San Francisco" "Las Vegas" Seattle Austin Chicago "New York" Miami London Barcelona Paris Milan Dubai Singapore Beijing Tokyo Sydney Melbourne "Buenos Aires" Brasilia "Mexico City"
-```
+4. Type a space after typing `python project.py` you can start playing by giving one only one character.
 5. Confirm by "enter" key.
 
 ## What files are included:
